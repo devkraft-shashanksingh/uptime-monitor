@@ -4,6 +4,12 @@ repo: uptime-monitor
 sites:
   - name: GIST QA API
     url: https://gist-qa.indegene.com/api/v1/health
+    
+  - name: AOR QA API
+    url: https://aor-ws.indegene.com/api/v1/health
+
+  - name: Label Update QA
+    url: https://label-update-qa.indegene.com/api/v1/health
 
 status-website:
   # Using GitHub Pages
