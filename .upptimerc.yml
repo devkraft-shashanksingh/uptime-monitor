@@ -4,12 +4,25 @@ repo: uptime-monitor
 sites:
   - name: GIST QA API
     url: https://gist-qa.indegene.com/api/v1/health
-    
-  - name: AOR QA API
-    url: https://aor-ws.indegene.com/api/v1/health
 
-  - name: Label Update QA
-    url: https://label-update-qa.indegene.com/api/v1/health
+  - name: Bayer QA
+    url: https://bayer-ws-qa.indegene.com/bapi/v1/health
+
+  - name: Bayer UAT
+    url: https://bayer-ws-uat.indegene.com/bapi/v1/health
+
+  - name: Bayer PROD
+    url: https://bayer-ws.indegene.com/bapi/v1/health
+
+  - name: AOR Debranded QA
+    url: https://aor-debranded-demo.indegene.com/bapi/v1/health
+
+  - name: AOR WS 
+    url: https://aor-ws.indegene.com/bapi/v1/health
+
+  - name: AOR WS 
+    url: https://agents-comm-demo.indegene.com/bapi/v1/health
+
 
 status-website:
   # Using GitHub Pages
