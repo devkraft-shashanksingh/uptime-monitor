@@ -23,6 +23,8 @@ sites:
   - name: AOR Agents Comm Demo
     url: https://agents-comm-demo.indegene.com/bapi/v1/health
 
+  - name: Supabase Check
+    url: https://genai-qa.indegene.com/next-persona-v2/api/kol-agent/vector-store
 
 status-website:
   # Using GitHub Pages
