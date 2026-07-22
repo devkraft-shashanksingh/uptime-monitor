@@ -15,10 +15,10 @@ status-website:
   # Using GitHub Pages
   baseUrl: /uptime-monitor
 
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: GIST QA Status
-  introTitle: "**GIST QA Status**"
-  introMessage: Real-time monitoring for the GIST QA API powered by Upptime.
+  logoUrl: https://raw.githubusercontent.com/devkraft-shashanksingh/uptime-monitor/master/assets/upptime-icon.svg
+  name: Indegene Server Status
+  introTitle: "**Indegene Server Status**"
+  introMessage: Real-time monitoring for Indegene services powered by Upptime.
 
   navbar:
     - title: Status
