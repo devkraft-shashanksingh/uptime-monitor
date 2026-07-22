@@ -17,10 +17,10 @@ sites:
   - name: AOR Debranded QA
     url: https://aor-debranded-demo.indegene.com/bapi/v1/health
 
-  - name: AOR WS 
+  - name: AOR WS
     url: https://aor-ws.indegene.com/bapi/v1/health
 
-  - name: AOR WS 
+  - name: AOR Agents Comm Demo
     url: https://agents-comm-demo.indegene.com/bapi/v1/health
 
 
