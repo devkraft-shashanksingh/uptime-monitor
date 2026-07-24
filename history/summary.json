@@ -130,21 +130,21 @@
     "url": "https://genai-qa.indegene.com/next-persona-v2/api/kol-agent/vector-store",
     "icon": "https://icons.duckduckgo.com/ip3/genai-qa.indegene.com.ico",
     "slug": "supabase-check",
-    "status": "down",
-    "uptime": "62.79%",
-    "uptimeDay": "62.93%",
-    "uptimeWeek": "62.79%",
-    "uptimeMonth": "62.79%",
-    "uptimeYear": "62.79%",
-    "time": 7812,
-    "timeDay": 7870,
-    "timeWeek": 7812,
-    "timeMonth": 7812,
-    "timeYear": 7812,
+    "status": "up",
+    "uptime": "60.41%",
+    "uptimeDay": "62.94%",
+    "uptimeWeek": "60.41%",
+    "uptimeMonth": "60.41%",
+    "uptimeYear": "60.41%",
+    "time": 7103,
+    "timeDay": 6616,
+    "timeWeek": 7103,
+    "timeMonth": 7103,
+    "timeYear": 7103,
     "dailyMinutesDown": {
       "2026-07-23": 534,
       "2026-07-22": 314,
-      "2026-07-24": 117
+      "2026-07-24": 219
     }
   }
 ]
