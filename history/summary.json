@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bayer-ws-uat.indegene.com.ico",
     "slug": "bayer-uat",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "97.15%",
+    "uptimeDay": "85.58%",
+    "uptimeWeek": "97.15%",
+    "uptimeMonth": "97.15%",
+    "uptimeYear": "97.15%",
     "time": 754,
     "timeDay": 725,
     "timeWeek": 754,
     "timeMonth": 754,
     "timeYear": 754,
     "dailyMinutesDown": {
-      "2026-07-27": 5
+      "2026-07-27": 208
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://bayer-ws.indegene.com/bapi/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/bayer-ws.indegene.com.ico",
     "slug": "bayer-prod",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 197,
-    "timeDay": 246,
-    "timeWeek": 197,
-    "timeMonth": 197,
-    "timeYear": 197,
+    "status": "up",
+    "uptime": "97.19%",
+    "uptimeDay": "85.76%",
+    "uptimeWeek": "97.19%",
+    "uptimeMonth": "97.19%",
+    "uptimeYear": "97.19%",
+    "time": 190,
+    "timeDay": 189,
+    "timeWeek": 190,
+    "timeMonth": 190,
+    "timeYear": 190,
     "dailyMinutesDown": {
-      "2026-07-27": 3
+      "2026-07-27": 205
     }
   },
   {
@@ -81,18 +81,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/aor-debranded-demo.indegene.com.ico",
     "slug": "aor-debranded-qa",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "97.19%",
+    "uptimeDay": "85.74%",
+    "uptimeWeek": "97.19%",
+    "uptimeMonth": "97.19%",
+    "uptimeYear": "97.19%",
     "time": 726,
     "timeDay": 685,
     "timeWeek": 726,
     "timeMonth": 726,
     "timeYear": 726,
     "dailyMinutesDown": {
-      "2026-07-27": 2
+      "2026-07-27": 205
     }
   },
   {
@@ -100,19 +100,19 @@
     "url": "https://aor-ws.indegene.com/bapi/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/aor-ws.indegene.com.ico",
     "slug": "aor-ws",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 192,
-    "timeDay": 228,
-    "timeWeek": 192,
-    "timeMonth": 192,
-    "timeYear": 192,
+    "status": "up",
+    "uptime": "97.22%",
+    "uptimeDay": "85.90%",
+    "uptimeWeek": "97.22%",
+    "uptimeMonth": "97.22%",
+    "uptimeYear": "97.22%",
+    "time": 181,
+    "timeDay": 161,
+    "timeWeek": 181,
+    "timeMonth": 181,
+    "timeYear": 181,
     "dailyMinutesDown": {
-      "2026-07-27": 0
+      "2026-07-27": 203
     }
   },
   {
@@ -121,18 +121,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/agents-comm-demo.indegene.com.ico",
     "slug": "aor-agents-comm-demo",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.22%",
+    "uptimeDay": "85.89%",
+    "uptimeWeek": "97.22%",
+    "uptimeMonth": "97.22%",
+    "uptimeYear": "97.22%",
     "time": 723,
     "timeDay": 718,
     "timeWeek": 723,
     "timeMonth": 723,
     "timeYear": 723,
     "dailyMinutesDown": {
-      "2026-07-27": 0
+      "2026-07-27": 203
     }
   },
   {
@@ -141,11 +141,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/genai-qa.indegene.com.ico",
     "slug": "supabase-check",
     "status": "up",
-    "uptime": "35.74%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "35.74%",
-    "uptimeMonth": "35.74%",
-    "uptimeYear": "35.74%",
+    "uptime": "37.53%",
+    "uptimeDay": "14.10%",
+    "uptimeWeek": "37.53%",
+    "uptimeMonth": "37.53%",
+    "uptimeYear": "37.53%",
     "time": 7880,
     "timeDay": 6419,
     "timeWeek": 7880,
