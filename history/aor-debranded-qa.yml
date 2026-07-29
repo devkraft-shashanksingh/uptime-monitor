@@ -1,7 +1,7 @@
 url: https://aor-debranded-demo.indegene.com/bapi/v1/health
-status: down
-code: 504
-responseTime: 10737
-lastUpdated: 2026-07-29T09:11:25.792Z
+status: up
+code: 200
+responseTime: 886
+lastUpdated: 2026-07-29T11:32:25.584Z
 startTime: 2026-07-22T06:39:00.387Z
 generator: Upptime <https://github.com/upptime/upptime>
