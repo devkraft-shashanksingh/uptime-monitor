@@ -1,7 +1,7 @@
 url: https://agents-comm-demo.indegene.com/bapi/v1/health
-status: down
-code: 504
-responseTime: 10890
-lastUpdated: 2026-07-29T09:12:12.008Z
+status: up
+code: 200
+responseTime: 841
+lastUpdated: 2026-07-29T11:32:28.667Z
 startTime: 2026-07-22T06:41:14.567Z
 generator: Upptime <https://github.com/upptime/upptime>
