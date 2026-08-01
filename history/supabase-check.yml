@@ -1,7 +1,7 @@
 url: https://genai-qa.indegene.com/next-persona-v2/api/kol-agent/vector-store
-status: down
-code: 504
-responseTime: 10711
-lastUpdated: 2026-07-31T23:57:38.203Z
+status: up
+code: 200
+responseTime: 2776
+lastUpdated: 2026-08-01T07:04:10.514Z
 startTime: 2026-07-22T06:44:52.998Z
 generator: Upptime <https://github.com/upptime/upptime>
